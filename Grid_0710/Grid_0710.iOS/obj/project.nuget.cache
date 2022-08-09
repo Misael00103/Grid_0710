@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uVDCMEQAxKqb/WKg9Auzo1FPfx4rWBAAMTgAtztNzY2cpN+QcRG6q5k/0nV7fhqFxKu0pmhiHj6PAPhyRfXSKw==",
+  "success": true,
+  "projectFilePath": "D:\\Tareas Xamarin\\Grid_0710\\Grid_0710\\Grid_0710\\Grid_0710.iOS\\Grid_0710.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Misael Beriguete\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Misael Beriguete\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Misael Beriguete\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
